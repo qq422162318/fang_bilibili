@@ -45,9 +45,16 @@ public class forumreplyEntity {
 	public void setReplyname(String replyname) {
 		this.replyname = replyname;
 	}
-	
-	
-	
-	
-	
+
+	@Override
+	public String toString() {
+		return "forumreplyEntity{" +
+				"replyid='" + replyid + '\'' +
+				", replyneirong='" + replyneirong + '\'' +
+				", replytime='" + replytime + '\'' +
+				", replyhand='" + replyhand + '\'' +
+				", replytieziid='" + replytieziid + '\'' +
+				", replyname='" + replyname + '\'' +
+				'}';
+	}
 }

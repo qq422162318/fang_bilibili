@@ -1,6 +1,8 @@
 package com.sf.entity;
 
+import lombok.ToString;
 
+@ToString
 //订单实体表
 public class ordertableEntity {
 	
@@ -69,9 +71,5 @@ public class ordertableEntity {
 		public void setOrderAddr(String orderAddr) {
 			this.orderAddr = orderAddr;
 		}
-		
 
-		
-	
-		
 }

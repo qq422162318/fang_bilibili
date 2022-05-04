@@ -8,6 +8,7 @@ import java.util.List;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -23,7 +24,7 @@ import com.sf.service.impl.MessageServiceImpl;
 import com.sf.service.impl.UserListServiceImpl;
 import com.sf.tool.GetDataTime;
 import com.sf.tool.GetUUID;
-
+@Slf4j
 @Controller
 public class MessageRequest {
 
@@ -42,7 +43,7 @@ public class MessageRequest {
 		String userName = (String) request.getSession().getAttribute("userName");// 得到用户登录的用户名
 		// 如果Session 里面的用户名存在 就相当于用户已经登录 可以留言 否则不能
 		// 设置编码
-		// System.out.println("ajax 进入了 发表留言里面");
+		// log.info("ajax 进入了 发表留言里面");
 		response.setCharacterEncoding("UTF-8");
 		request.setCharacterEncoding("UTF-8");
 		PrintWriter out = response.getWriter();
@@ -54,8 +55,8 @@ public class MessageRequest {
 			String messageID = GetUUID.getUUID();
 			// 获得当前时间
 			String dataTime = GetDataTime.DQtime();
-			// System.out.println(message);//得到留言内容
-			// System.out.println(shipingID);//得到视频ID
+			// log.info(message);//得到留言内容
+			// log.info(shipingID);//得到视频ID
 			// String
 			userEntity user = userListServiceImpl.userlist(userName);
 			// 得到用户ID
@@ -79,20 +80,20 @@ public class MessageRequest {
 				boolean bl = messageServiceImpl.message(messageent);
 				if (bl) {
 					// 留言成功
-					// System.out.println("向这个视频留言成功");
+					// log.info("向这个视频留言成功");
 					tishi = "留言成功";
 				} else {
 					// 留言失败
-					// System.out.println("留言失败");
+					// log.info("留言失败");
 					tishi = "留言失败";
 				}
 			}else{
-				System.out.println(message.length());
+				log.info(""+message.length());
 				tishi="对不起,留言内容过长";
 			}
 		} else {
 			// 说明用户没有登录 就在留言
-			// System.out.println("用户没有登录");
+			// log.info("用户没有登录");
 			tishi = "请登录之后留言";
 		}
 		// redirect:/messageuser.sf

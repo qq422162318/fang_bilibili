@@ -1,5 +1,8 @@
 package com.sf.entity;
 
+import lombok.ToString;
+
+@ToString
 public class videoEntity {
 	
 	private String videoID; //视频ID

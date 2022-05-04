@@ -61,12 +61,19 @@ public class forumEntity {
 		public void setForumAmount(String forumAmount) {
 			this.forumAmount = forumAmount;
 		}
-		
-		
-		
-		
-		
-		
-		
-		
+
+
+	@Override
+	public String toString() {
+		return "forumEntity{" +
+				"forumID='" + forumID + '\'' +
+				", forumBT='" + forumBT + '\'' +
+				", forummessage='" + forummessage + '\'' +
+				", forumuserName='" + forumuserName + '\'' +
+				", forumTime='" + forumTime + '\'' +
+				", forumliebie='" + forumliebie + '\'' +
+				", forumAmount='" + forumAmount + '\'' +
+				", firumhand='" + firumhand + '\'' +
+				'}';
+	}
 }

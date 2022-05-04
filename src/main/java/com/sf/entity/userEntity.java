@@ -123,6 +123,27 @@ public class userEntity {
 	public void setUserPaypassword(String userPaypassword) {
 		this.userPaypassword = userPaypassword;
 	}
-	
-	
+
+	@Override
+	public String toString() {
+		return "userEntity{" +
+				"userID='" + userID + '\'' +
+				", userMingzi='" + userMingzi + '\'' +
+				", userName='" + userName + '\'' +
+				", passWord='" + passWord + '\'' +
+				", useryinghangka='" + useryinghangka + '\'' +
+				", usersex='" + usersex + '\'' +
+				", userHand='" + userHand + '\'' +
+				", userAddress='" + userAddress + '\'' +
+				", userPhone='" + userPhone + '\'' +
+				", userQQ='" + userQQ + '\'' +
+				", userEmial='" + userEmial + '\'' +
+				", userCollection='" + userCollection + '\'' +
+				", userState='" + userState + '\'' +
+				", userLoginTime='" + userLoginTime + '\'' +
+				", userIP='" + userIP + '\'' +
+				", userPaypassword='" + userPaypassword + '\'' +
+				", userRMB='" + userRMB + '\'' +
+				'}';
+	}
 }

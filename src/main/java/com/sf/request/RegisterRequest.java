@@ -5,6 +5,7 @@ import java.util.regex.Pattern;
 
 import javax.servlet.http.HttpServletRequest;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -12,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.sf.entity.userEntity;
 import com.sf.service.impl.RegisterServiceImpl;
 import com.sf.tool.GetUUID;
-
+@Slf4j
 @Controller
 public class RegisterRequest {
 	@Autowired
@@ -20,8 +21,8 @@ public class RegisterRequest {
 
 	@RequestMapping("register.sf")
 	public String web3(userEntity user, HttpServletRequest request,String yanzheng) {
-		// System.out.println(user.getUserEmial());
-		// System.out.println("测试是否进入此方法");
+		// log.info(user.getUserEmial());
+		// log.info("测试是否进入此方法");
 
 		// 设置一个默认的用户ID UUID
 		user.setUserID(GetUUID.getUUID());

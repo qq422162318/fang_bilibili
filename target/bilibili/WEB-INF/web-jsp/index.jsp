@@ -279,12 +279,12 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			<!-- 推广 -->
 
 
-			<!-- 舞蹈 -->
+
 			<div class="mainCont clearfix" id="dance" js-move="true">
 				<div class="pic-list fl" js-tab="true">
 					<div class="pic-list__title">
 						<i class="icon icon-dance"></i>
-						<h2>分类一</h2>
+						<h2>前方高能</h2>
 						<div class="tab-title">
 							<a href="#" class="cur">有新动态</a>
 
@@ -353,7 +353,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				<div class="pic-list fl" js-tab="true">
 					<div class="pic-list__title">
 						<i class="icon icon-game"></i>
-						<h2>分类二</h2>
+						<h2>MAD·AMV</h2>
 						<div class="tab-title">
 							<a href="#" class="cur">有新动态</a>
 						</div>
@@ -419,7 +419,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				<div class="pic-list fl" js-tab="true">
 					<div class="pic-list__title">
 						<i class="icon icon-technology"></i>
-						<h2>分类三</h2>
+						<h2>MMD·3D</h2>
 						<div class="tab-title">
 							<a href="#" class="cur">有新动态</a>
 						</div> -->
@@ -488,14 +488,14 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	</div>
 
 
-	<!-- <div id="sideBar">
+	<div id="sideBar">
 		<div class="sideBar-list">
 
 			<br> <a href="#">分类一</a> <a href="#">分类二</a> <a href="#">分类三</a> <br>
 		</div>
 		<div class="sideBar-line"></div>
 		<a href="#" class="sideBar-toTop" id="backTop"></a>
-	</div> -->
+	</div>
 
 
 	<%--背景音乐 --%>

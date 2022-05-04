@@ -38,7 +38,15 @@ public class gridsEntity {
 	public void setGirdskucun(int girdskucun) {
 		this.girdskucun = girdskucun;
 	}
-	
 
-	
+	@Override
+	public String toString() {
+		return "gridsEntity{" +
+				"gridsID='" + gridsID + '\'' +
+				", girdsName='" + girdsName + '\'' +
+				", girdsjiage='" + girdsjiage + '\'' +
+				", girdsimg='" + girdsimg + '\'' +
+				", girdskucun=" + girdskucun +
+				'}';
+	}
 }

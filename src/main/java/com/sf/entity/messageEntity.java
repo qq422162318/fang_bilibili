@@ -1,6 +1,9 @@
 package com.sf.entity;
 
+import lombok.ToString;
+
 //留言实体表
+@ToString
 public class messageEntity {
 	
 		/*	messageID            varchar(32) not null,
@@ -60,10 +63,5 @@ public class messageEntity {
 		public void setMessageHand(String messageHand) {
 			this.messageHand = messageHand;
 		}
-		
-		
-		
-	
-		
-		
+
 }

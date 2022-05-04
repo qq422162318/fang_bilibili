@@ -1,5 +1,8 @@
 package com.sf.entity;
 
+import lombok.ToString;
+
+@ToString
 //商品实体表
 public class ShoppingCart {
 	public String cartID; //购物车ID
@@ -45,8 +48,8 @@ public class ShoppingCart {
 	public void setShoopingjiage(String shoopingjiage) {
 		this.shoopingjiage = shoopingjiage;
 	}
-	
-	
-	
+
+
+
 
 }

@@ -1,5 +1,8 @@
 package com.sf.entity;
 
+import lombok.ToString;
+
+@ToString
 public class videoTopEntity {
 	private String Filename;// 文件名字
 

@@ -7,6 +7,7 @@ import java.util.List;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -20,7 +21,7 @@ import com.sf.service.impl.LoginServiceImpl;
 import com.sf.service.impl.UserListServiceImpl;
 import com.sf.tool.GetDataTime;
 import com.sf.tool.GetUUID;
-
+@Slf4j
 @Controller
 public class LoginRequest {
 		
@@ -76,8 +77,8 @@ public class LoginRequest {
 	@RequestMapping(value="yanzhengpass.sf",method=RequestMethod.POST,produces="text/html;charset=UTF-8")
 	public @ResponseBody  void yanzhengpass(HttpServletRequest request,HttpServletResponse response
 		,String pass,String zong,String shangpingmingzi,String shangpingtupiao,String dizhi) throws IOException{
-		//System.out.println(pass);"shangpingmingzi":shangpingmingzi,"shangpingtupiao":shangpingtupiao,"dizhi":dizhi
-		//System.out.println(zong);//拿到物品的所有价格
+		//log.info(pass);"shangpingmingzi":shangpingmingzi,"shangpingtupiao":shangpingtupiao,"dizhi":dizhi
+		//log.info(zong);//拿到物品的所有价格
 		
 		String userName = (String) request.getSession().getAttribute("userName");
 		
@@ -149,10 +150,10 @@ public class LoginRequest {
 		boolean bl = loginServiceImpl.Confirmorder(orderID);
 		if(bl){
 			//收货成功
-			//System.out.println("成功");
+			//log.info("成功");
 		}else{
 			//收货失败
-			//System.out.println("失败");
+			//log.info("失败");
 		}
 		return "forward:/Order.sf";
 		
@@ -166,10 +167,10 @@ public class LoginRequest {
 			boolean bl = loginServiceImpl.Cancellationoforder(orderID);
 			if(bl){
 				//收货成功
-				//System.out.println("待取消成功");
+				//log.info("待取消成功");
 			}else{
 				//收货失败
-				//System.out.println("待取消失败");
+				//log.info("待取消失败");
 			}
 			return "forward:/Order.sf";
 			
@@ -183,10 +184,10 @@ public class LoginRequest {
 			boolean bl = loginServiceImpl.delordertable(orderID);
 			if(bl){
 				//收货成功
-				//System.out.println("删除成功");
+				//log.info("删除成功");
 			}else{
 				//收货失败
-				//System.out.println("删除失败");
+				//log.info("删除失败");
 			}
 			return "forward:/Order.sf";
 			

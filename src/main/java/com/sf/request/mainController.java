@@ -78,7 +78,8 @@ public class MainController {
 
 
     @RequestMapping("index.sf")
-    public String test() {
+    public String index() {
+        log.info("forward:/logoone.sf");
         return "forward:/logoone.sf";
 
         //return "redirect:/abc/default.html";  //跳转
@@ -216,7 +217,7 @@ public class MainController {
         Map model = new HashMap();
 
         model.put("user", user);// userlist是个Arraylist之类的
-        // log.info(user.getUserRMB());
+        log.info("user.getUserRMB():"+user.getUserRMB());
 
         // return "User_full_information";
         return new ModelAndView("User_full_information", model);
@@ -317,9 +318,7 @@ public class MainController {
         String userName = (String) request.getSession().getAttribute("userName");
         userEntity user = userListServiceImpl.userlist(userName);
         Map model = new HashMap();
-
         model.put("user", user);// userlist是个Arraylist之类的
-
         return new ModelAndView("Information", model);
 
     }
@@ -335,8 +334,7 @@ public class MainController {
     // 收货地址jsp界面
     @RequestMapping("Delivery_address.sf")
     public String Delivery_address() {
-        // log.info("测试是否进入此方法");
-
+        log.info("测试是否进入此方法");
         return "Delivery_address";
 
     }
@@ -346,10 +344,11 @@ public class MainController {
     @RequestMapping("updateDelivery_address.sf")
     public String updateDelivery_address(String usermingzi, String userPhone, String userAddress,
                                          HttpServletRequest request) {
-        /*
-         * log.info(usermingzi); log.info(userPhone);
-         * log.info(userAddress);
-         */
+
+        log.info(usermingzi);
+        log.info(userPhone);
+        log.info(userAddress);
+
         String sessionName = (String) request.getSession().getAttribute("userName");
         boolean bl = update_login_password_Service_Impl.Update_Addred(sessionName, userAddress, usermingzi, userPhone);
         String tishi = "";
@@ -369,15 +368,11 @@ public class MainController {
         String userName = (String) request.getSession().getAttribute("userName");
         String path2 = (String) request.getSession().getAttribute("fuckyou");
         userEntity user = userListServiceImpl.userlist(userName);
-
-        // log.info(user.getUserHand());
+        log.info(user.getUserHand());
         String userHand = user.getUserHand();
         String newuserHand = path2;
-
-        // log.info(userName+newuserHand);
-
+        log.info(userName + newuserHand);
         boolean bl = update_login_password_Service_Impl.Update_login_hand(userName, userHand, newuserHand);
-
         if (bl) {
             log.info("成功");
         } else {
@@ -387,12 +382,19 @@ public class MainController {
 
     }
 
+    /**
+     * 取视频地址转发到videojsp
+     * @param dizhi
+     * @param request
+     * @param shipingID
+     * @return
+     */
     @RequestMapping("video.sf")
     public ModelAndView video(String dizhi, HttpServletRequest request, String shipingID) {
-        /*
-         * log.info(dizhi);
-         * log.info("===============================");
-         */
+
+        log.info(dizhi);
+        log.info("video.sf===============================");
+
         // 获得地址
         request.setAttribute("dizhi", dizhi);
 
@@ -407,7 +409,7 @@ public class MainController {
         videoEntity videoInfo = userListService.videoInfo(shipingID);
         request.setAttribute("videoName", videoInfo.getVideoName());
         request.setAttribute("videoCategory", videoInfo.getVideocAtegory());
-
+        request.setAttribute("videoAdress",videoInfo.getVideoAddress());
         for (messageEntity message : messagelist) {
             message.getMessageuserName();// 得到用户名
             // 根据每个用户名查询出每个用户对应的头像地址
@@ -557,12 +559,15 @@ public class MainController {
 
         String echo = "";
         // 得到内容 ajax提交进来
-        /*
-         * log.info(userID); log.info(userName);
-         * log.info(userzhenshiName); log.info(userSex);
-         * log.info(passWord); log.info(addr);
-         * log.info(userPhone); log.info(userQQ);
-         */
+        log.info(userID);
+        log.info(userName);
+        log.info(userzhenshiName);
+        log.info(userSex);
+        log.info(passWord);
+        log.info(addr);
+        log.info(userPhone);
+        log.info(userQQ);
+
 
         // update user set userName = "admin" ,
         // userMingzi = "佘峰T" ,usersex = "男" ,
@@ -603,16 +608,22 @@ public class MainController {
         // 将用户表里面被拉黑的用户全部查询出来
         List<userEntity> user = userListServiceImpl.xiaoheiwu("异常");
         if (user != null)
-         log.info(user.get(0).toString());
+            log.info(user.get(0).toString());
         Map model = new HashMap();
         model.put("user", user);
+        log.info(request.getCookies().toString());
         return new ModelAndView("xiaoheiwu", model);
 
     }
 
-    // 将数据库里面所有的视频查询出来 发送到首页面
+    /**
+     * 将数据库里面所有的视频查询出来 发送到首页面
+     * @param request
+     * @param category
+     * @return
+     */
     @RequestMapping("fenlei.sf")
-    public String testshabi(HttpServletRequest request, String category) {
+    public String fenlei(HttpServletRequest request, String category) {
 
         /*
          * dangqianye= "0"; int dangqianye2 = Integer.parseInt(dangqianye);
@@ -705,13 +716,13 @@ public class MainController {
     public String Confirmorder(HttpServletRequest request, String girdsID, String gridsName, int gridskucun,
                                String gridsjiage, String gridsimg) {
         // 乱码问题
-        try {
-            gridsName = new String(gridsName.getBytes("ISO-8859-1"), "utf-8");
-
-        } catch (UnsupportedEncodingException e) {
-            // TODO Auto-generated catch block
-            log.info("Confirmorder.sf" + "这里的乱码解决失败");
-        }
+//        try {
+//            gridsName = new String(gridsName.getBytes("ISO-8859-1"), "utf-8");
+//
+//        } catch (UnsupportedEncodingException e) {
+//            // TODO Auto-generated catch block
+//            log.info("Confirmorder.sf" + "这里的乱码解决失败");
+//        }
 
         gridsEntity grids = new gridsEntity();
         grids.setGridsID(girdsID);
@@ -1057,7 +1068,7 @@ public class MainController {
     //论坛首页
     @RequestMapping("forum.sf")
     public String forum(HttpServletRequest request) {
-        //	log.info("论坛"+Callingmethod.count);//得到注册用户的总数量
+        log.info("论坛"+Callingmethod.count);//得到注册用户的总数量
 
         //将所有的论坛全部查询出来
         String a = (String) request.getServletContext().getAttribute("getUserName");
@@ -1168,7 +1179,6 @@ public class MainController {
         }
 
     }
-
 
 
     //所有测试页面都进这

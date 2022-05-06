@@ -325,11 +325,11 @@ form {
 	<div id="menu1" class="menu">
 		<ul>
 			<li><a href="logoone.sf">首 页</a></li>
-			<li><a href="fenlei.sf?category=1">分类一</a></li>
-			<li><a href="fenlei.sf?category=2">分类二</a></li>
-			<li><a href="fenlei.sf?category=3">分类三</a></li>
-			<li><a href="fenlei.sf?category=4">分类四</a></li>
-			<li><a href="fenlei.sf?category=5">分类五</a></li>
+			<li><a href="fenlei.sf?category=1">热门</a></li>
+			<li><a href="fenlei.sf?category=2">动画</a></li>
+			<li><a href="fenlei.sf?category=3">AMV</a></li>
+			<li><a href="fenlei.sf?category=4">番剧</a></li>
+			<li><a href="fenlei.sf?category=5">鬼畜</a></li>
 			<!-- <li><a href="#">测 试</a></li>
 			<li><a href="xiaoheiwu.sf">小 黑 屋</a></li> -->
 

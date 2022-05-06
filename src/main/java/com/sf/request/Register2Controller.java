@@ -12,7 +12,7 @@ import com.sf.entity.userEntity;
 import com.sf.service.impl.RegisterServiceImpl;
 @Slf4j
 @Controller
-public class Redister2Controller {
+public class Register2Controller {
 	
 	@Autowired
 	RegisterServiceImpl registerService;

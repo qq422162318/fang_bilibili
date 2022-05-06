@@ -54,16 +54,16 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
         <tr>
           <td width="20%" height="25"><table border="0" cellspacing="0" cellpadding="3">
             <tr>
-              <td><a href="#"><img src="../../images/prev_top.gif" width="16" height="16" border="0"></a></td>
-              <td><a href="#"><img src="../../images/prev.gif" width="16" height="16" border="0"></a></td>
-              <td><a href="#"><img src="../../images/next.gif" width="16" height="16" border="0"></a></td>
-              <td><a href="#"><img src="../../images/prev_end.gif" width="16" height="16" border="0"></a></td>
+              <td><a href="#"><img src="<%=request.getContextPath()%>/static/bilibiliIndex/images/prev_top.png" width="16" height="16" border="0"></a></td>
+              <td><a href="#"><img src="<%=request.getContextPath()%>/static/bilibiliIndex/images/prev.png" width="16" height="16" border="0"></a></td>
+              <td><a href="#"><img src="<%=request.getContextPath()%>/static/bilibiliIndex/images/next.png" width="16" height="16" border="0"></a></td>
+              <td><a href="#"><img src="<%=request.getContextPath()%>/static/bilibiliIndex/images/prev_end.png" width="16" height="16" border="0"></a></td>
             </tr>
           </table></td>
           <td width="20%" align="center"><table border="0" cellspacing="0" cellpadding="3">
             <tr>
-              <td><a href="#"><img src="../../images/next.gif" width="16" height="16" border="0"></a></td>
-              <td><input name="textfield23" type="text" size="3" style="width:25;height:18">
+              <td><a href="#"><img src="<%=request.getContextPath()%>/static/bilibiliIndex/images/next.png" width="16" height="16" border="0"></a></td>
+              <td><input name="textfield23" type="text" size="3" style="width:25px;height:18px">
                 /页</td>
             </tr>
           </table></td>

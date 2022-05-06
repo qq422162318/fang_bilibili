@@ -62,7 +62,7 @@
         <!-- <property name="maxStatementsPerConnection" value="${c3p0.maxStatementsPerConnection}"/> -->
 
     </bean>
-
+    <mvc:resources mapping="/static/**" location="/static/"/>
     <mvc:interceptors>
         <!-- 国际化操作拦截器 如果采用基于（请求/Session/Cookie）则必需配置 -->
         <bean class="org.springframework.web.servlet.i18n.LocaleChangeInterceptor"/>
@@ -80,11 +80,11 @@
             <mvc:exclude-mapping path="/loginservice.sf"/><!-- 登录 -->
             <mvc:exclude-mapping path="/messageuser.sf"/><!-- 注册 -->
             <mvc:exclude-mapping path="/register.sf"/><!-- 注册请求 -->
-            <mvc:exclude-mapping path="/fenlei.sf"/><!-- 详情 -->
+            <!--<mvc:exclude-mapping path="/fenlei.sf"/>&lt;!&ndash; 详情 &ndash;&gt;-->
             <mvc:exclude-mapping path="/ajaxtijiao1.sf"/><!-- 分类ajax -->
             <mvc:exclude-mapping path="/Shopping.sf"/><!-- 商品 -->
             <mvc:exclude-mapping path="/gridspay.sf"/><!-- 商品详情 -->
-            <mvc:exclude-mapping path="/video.sf"/><!-- 视频播放 -->
+            <!--<mvc:exclude-mapping path="/video.sf"/>&lt;!&ndash; 视频播放 &ndash;&gt;-->
             <mvc:exclude-mapping path="/messageuser.sf"/><!-- 视频播放 -->
             <mvc:exclude-mapping path="/ajaxTuiJian"/><!-- 论坛 -->
             <mvc:exclude-mapping path="/forum.sf"/>

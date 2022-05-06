@@ -32,7 +32,7 @@ public class LoginRequest {
 	UserListServiceImpl userListServiceImpl;
 	
 	@RequestMapping("loginservice.sf")
-	public String web3(String userName,String passWord,HttpServletRequest request){
+	public String loginRequst(String userName,String passWord,HttpServletRequest request){
 		boolean bl=	loginServiceImpl.loginuser(userName, passWord);
 		 if(bl){
 			 //将用户的全部信息查询出来
@@ -56,6 +56,7 @@ public class LoginRequest {
 			 		//赋值
 			 		mamaipi = ceshidizhi;
 			 	}
+			 	//如果使用admin123登陆跳到后台jsp，否则跳到
 			 	if(userName.equals("admin123") && passWord.equals("admin123")){
 			 		return "forward:/Houtai.sf";
 			 	}
@@ -173,7 +174,7 @@ public class LoginRequest {
 				//log.info("待取消失败");
 			}
 			return "forward:/Order.sf";
-			
+
 		}	
 		
 		

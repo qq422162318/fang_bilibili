@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.sf.entity.userEntity;
 import com.sf.service.impl.RegisterServiceImpl;
 import com.sf.tool.GetUUID;
+import org.springframework.web.bind.annotation.RequestParam;
+
 @Slf4j
 @Controller
 public class RegisterRequest {
@@ -20,16 +22,16 @@ public class RegisterRequest {
 	RegisterServiceImpl registerService;
 
 	@RequestMapping("register.sf")
-	public String web3(userEntity user, HttpServletRequest request,String yanzheng) {
-		// log.info(user.getUserEmial());
-		// log.info("测试是否进入此方法");
+	public String web3(userEntity user, HttpServletRequest request, String yanzheng, @RequestParam(name = "passWord")String passWord) {
+		log.info("测试是否进入此方法------>register.sf");
+		log.info(user.getUserEmial());
 
 		// 设置一个默认的用户ID UUID
 		user.setUserID(GetUUID.getUUID());
 		// 设置用户注册时 默认状态
 		user.setUserState("正常");// 状态为0为正常用户
 		// 设置注册用户的默认支付密码; (一开始忘记了)
-		user.setUserPaypassword("123456");
+		user.setUserPaypassword(passWord);
 		// 设置注册用户的默认头像
 		user.setUserHand("/static/userHand_Top/upload/MyHand.png");
 
@@ -48,7 +50,7 @@ public class RegisterRequest {
 		Pattern regexuserNmae = Pattern.compile(userNmae);
 		Matcher matcheruserName = regexuserNmae.matcher(user.getUserName());
 		boolean username = matcheruserName.matches();
-		
+
 		//获得验证码.....我是放入到session里的
 		String  yan=(String) request.getSession().getAttribute("yanzhengma");
 		

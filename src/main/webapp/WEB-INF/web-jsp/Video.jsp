@@ -28,14 +28,11 @@
           href="<%=request.getContextPath()%>/static/Homepage/video/css/popuo-box.css">
     <link rel="stylesheet"
           href="<%=request.getContextPath()%>/static/Homepage/video/css/style.css">
-
-
     <style type="text/css">
         body {
             font: 12px/180% Arial, Helvetica, sans-serif, "新宋体";
             background: #121212;
         }
-
         /* slider */
         .wp {
             position: relative;
@@ -46,7 +43,6 @@
             border: 1px solid #121212;
             background: #fff;
         }
-
         .slider {
             position: absolute;
             width: 760px;
@@ -54,24 +50,20 @@
             left: 0;
             top: 0;
         }
-
         .fl {
             float: left
         }
-
         .slider img {
             display: block;
             padding: 2px;
             border: 1px solid #ccc
         }
-
         .slider li {
             padding: 20px 0;
             border-bottom: 1px dashed #ccc;
             overflow: hidden;
             width: 100%
         }
-
         .slider p {
             font-size: 12px;
             margin: 0;
@@ -80,65 +72,51 @@
             line-height: 20px;
         }
     </style>
-
-
     <style>
         body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code,
         form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
             margin: 0;
             padding: 0;
         }
-
         body {
             background: #fff;
             color: #555;
             font-size: 14px;
             font-family: Verdana, Arial, Helvetica, sans-serif;
         }
-
         td, th, caption {
             font-size: 14px;
         }
-
         h1, h2, h3, h4, h5, h6 {
             font-weight: normal;
             font-size: 100%;
         }
-
         address, caption, cite, code, dfn, em, strong, th, var {
             font-style: normal;
             font-weight: normal;
         }
-
         a {
             color: #555;
             text-decoration: none;
         }
-
         a:hover {
             text-decoration: underline;
         }
-
         img {
             border: none;
         }
-
         ol, ul, li {
             list-style: none;
         }
-
         input, textarea, select, button {
             font: 14px Verdana, Helvetica, Arial, sans-serif;
         }
-
         table {
             border-collapse: collapse;
         }
-
         html {
             overflow-y: scroll;
         }
-
         .clearfix:after {
             content: ".";
             display: block;
@@ -146,11 +124,9 @@
             clear: both;
             visibility: hidden;
         }
-
         .clearfix {
             *zoom: 1;
         }
-
         /*body{ font-family: "微软雅黑"; background-color: #292929; 	}*/
         #testBox {
             width: 80%;
@@ -158,8 +134,6 @@
             margin: 0 auto;
         }
     </style>
-
-
     <title>视界-视频区</title>
 </head>
 <body>
@@ -222,25 +196,30 @@
 
 
 <div style="margin-top:30px;margin-left:150px;margin-bottom:30px">
-    <h1 style="font-size:150%;">分类一&nbsp&nbsp&nbsp&nbsp>>>&nbsp&nbsp&nbsp&nbsp<%=request.getAttribute("videoName") %>
+    <h1 style="font-size:150%;">
+        前方高能&nbsp&nbsp&nbsp&nbsp>>>&nbsp&nbsp&nbsp&nbsp<%=request.getAttribute("videoName") %>
     </h1>
+    <%--<div style="margin-left: 0%;">--%>
+        <%--<video controls="controls" autoplay="autoplay" autobuffer="true" width="918px" height="537px" src="<%=request.getContextPath()+request.getAttribute("dizhi")%>" autoplay="true"></video>--%>
+    <%--</div>--%>
 </div>
 
 
 <div id="testBox"></div>
 <script
-        src="<%=request.getContextPath()%>/static/Homepage/videoPlay/js/fz-video.js"></script>
+        src="<%=request.getContextPath()%>/static/Homepage/videoPlay/js/fz-video.js">
+
+</script>
 <script>
 
     var FZ_VIDEO = new createVideo("testBox", //容器的id
         {
 
-            url: '/video<%=request.getAttribute("dizhi")%>', //视频地址
+            url: '<%=request.getContextPath()+request.getAttribute("dizhi")%>', //视频地址
             autoplay: true
             //是否自动播放
         });
 </script>
-
 
 <!-- 评论区 -->
 <div class="all-comments">

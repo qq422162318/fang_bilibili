@@ -7,33 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="813bba00-560d-4a3a-af82-ba6300fbb542" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sf/dao/impl/UserListDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sf/dao/impl/UserListDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sf/jingtai/JspToHtml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sf/jingtai/JspToHtml.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sf/request/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sf/request/LoginRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sf/request/Redister2Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sf/request/Register2Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sf/request/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sf/request/RegisterRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sf/request/mainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sf/request/mainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/Confirmorder.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/Confirmorder.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/DisplayVideo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/DisplayVideo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/Forum.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/Forum.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/ForumReply.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/ForumReply.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/Forumindex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/Forumindex.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/Video.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/Video.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/gridspay.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/gridspay.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/loginnew.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/loginnew.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/xiaoheiwu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/xiaoheiwu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/zhuce.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web-jsp/zhuce.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/Forum/js/forum.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/Forum/js/forum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/Homepage/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/Homepage/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/adminjs/liebiao.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/adminjs/liebiao.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bilibiliIndex/images/cont/slider_img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/bilibiliIndex/images/cont/slider_img1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bilibiliIndex/images/cont/slider_img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/bilibiliIndex/images/cont/slider_img2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bilibiliIndex/images/cont/slider_img3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/bilibiliIndex/images/cont/slider_img3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bilibiliIndex/images/cont/slider_img4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/bilibiliIndex/images/cont/slider_img4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/gouwuche/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/gouwuche/js/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/impl/UserListDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/impl/UserListDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/jingtai/JspToHtml.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/jingtai/JspToHtml.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/request/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/request/LoginRequest.class" afterDir="false" />
@@ -86,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sf/request/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
-              <caret line="771" column="10" selection-start-line="771" selection-start-column="10" selection-end-line="771" selection-end-column="10" />
+              <caret line="771" column="61" selection-start-line="771" selection-start-column="61" selection-end-line="771" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -217,7 +190,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="41" />
+    <option name="x" value="9" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="708" />
@@ -334,6 +307,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="bilibili" type="b2602c69:ProjectViewProjectNode" />
+              <item name="video-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -344,7 +325,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1651744649600" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1651815303260" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -458,12 +439,20 @@
       <workItem from="1651717028275" duration="98000" />
       <workItem from="1651717274254" duration="1000" />
       <workItem from="1651721699722" duration="9259000" />
-      <workItem from="1651807527168" duration="700000" />
+      <workItem from="1651807527168" duration="878000" />
     </task>
+    <task id="LOCAL-00001" summary="mymac">
+      <created>1651815249871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651815249871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38776000" />
+    <option name="totallyTimeSpent" value="38954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="23" width="1280" height="708" extended-state="0" />
@@ -488,7 +477,7 @@
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
@@ -882,7 +871,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sf/request/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
-          <caret line="771" column="10" selection-start-line="771" selection-start-column="10" selection-end-line="771" selection-end-column="10" />
+          <caret line="771" column="61" selection-start-line="771" selection-start-column="61" selection-end-line="771" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

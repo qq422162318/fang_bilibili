@@ -177,10 +177,10 @@
 
 
 </script>
-<!-- <li><em>寄送至:</em><span id="J_AddrConfirm" style="word-break: break-all;">
-                湖北省 恩施土家族苗族自治州 恩施市 湖北民族学院（信息工程学院）  男生宿舍楼235栋1234202
+      <li><em>寄送至:</em><span id="J_AddrConfirm" style="word-break: break-all;">
+                XX州 XX市 XX学院（信息工程学院）  男生宿舍楼235栋1234202
             </span></li>
-      <li><em>收货人:</em><span id="J_AddrNameConfirm">某某某 18124317260 </span></li> -->
+      <li><em>收货人:</em><span id="J_AddrNameConfirm">某某某 18795563025 </span></li>
 
 <div id="page">
 

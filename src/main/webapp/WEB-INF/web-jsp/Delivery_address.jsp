@@ -134,7 +134,7 @@ window.onload=function(){
 			<!--提示信息-->
 			<div class="tip_notem">
 				<ul>
-					<li>1.收货地址------屄理屄理喵</li>
+					<li>1.收货地址------玻璃玻璃喵</li>
 					<li>2.为了您的方便，请尽量填写您常用的信息</li>
 				</ul>
 			</div>

@@ -91,6 +91,7 @@
             <mvc:exclude-mapping path="/loginforum.sf"/>
             <mvc:exclude-mapping path="/forumReply.sf"/>
             <mvc:exclude-mapping path="/Forum"/>
+            <mvc:exclude-mapping path="/static/**"/>
 
             <!-- 静态文件 -->
 

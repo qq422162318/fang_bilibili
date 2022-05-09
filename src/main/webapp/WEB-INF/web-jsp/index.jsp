@@ -66,47 +66,47 @@
                     </div>
                     <%} %>
                 </div>
-                <div class="header-top__user"
-                     style="position: fixed; z-index: 999; width: 300px; height: 170px; background-color: #FCF6EB; margin-left: 55%; margin-top: 3%"
-                     id="div2">
-                    <div id="kawayi"> <!-- onmouseout="asjdh()" -->
-                        <div
-                                style="width: 130px; height: 160px; background-color: #FCF6EB; position: fixed; margin-left: 14%">
-                            <img id="imgtest" alt="" style="width: 130px; height: 160px;"
-                                 onmouseover="project()" onmouseout="about()"
-                                 src="<%=request.getContextPath()%>/static/Homepage/img/kawayi.png">
-                            <div
-                                    style="width: 90px; height: 90px; margin-top: -113px; margin-left: -110px">
-                                <!-- 头像放这里 -->
-                                <img style="width: 90px; height: 80px" alt=""
-                                     src="<%=request.getContextPath()%><%=request.getSession().getAttribute("userHand")%>">
-                            </div>
-                        </div>
+                <%--<div class="header-top__user"--%>
+                     <%--style="position: fixed; z-index: 999; width: 300px; height: 170px; background-color: #FCF6EB; margin-left: 55%; margin-top: 3%"--%>
+                     <%--id="div2">--%>
+                    <%--<div id="kawayi"> <!-- onmouseout="asjdh()" -->--%>
+                        <%--<div--%>
+                                <%--style="width: 130px; height: 160px; background-color: #FCF6EB; position: fixed; margin-left: 14%">--%>
+                            <%--<img id="imgtest" alt="" style="width: 130px; height: 160px;"--%>
+                                 <%--onmouseover="project()" onmouseout="about()"--%>
+                                 <%--src="<%=request.getContextPath()%>/static/Homepage/img/kawayi.png">--%>
+                            <%--<div--%>
+                                    <%--style="width: 90px; height: 90px; margin-top: -113px; margin-left: -110px">--%>
+                                <%--<!-- 头像放这里 -->--%>
+                                <%--<img style="width: 90px; height: 80px" alt=""--%>
+                                     <%--src="<%=request.getContextPath()%><%=request.getSession().getAttribute("userHand")%>">--%>
+                            <%--</div>--%>
+                        <%--</div>--%>
 
-                    </div>
-                    <div class="center_header">
-                        <div align="center" style="margin-left: 60%">
-                            <a href="#"><img width="20px" height="20px"
-                                             src="<%=request.getContextPath()%><%=request.getSession().getAttribute("userHand")%>"/></a>
+                    <%--</div>--%>
+                    <%--<div class="center_header">--%>
+                        <%--<div align="center" style="margin-left: 60%">--%>
+                            <%--<a href="#"><img width="20px" height="20px"--%>
+                                             <%--src="<%=request.getContextPath()%><%=request.getSession().getAttribute("userHand")%>"/></a>--%>
 
-                        </div>
-                        <div align="center" style="margin-left: -100px">
-							<span style="color: black;"> <b><%=request.getSession().getAttribute("userName")%></b>
-							</span>
-                        </div>
+                        <%--</div>--%>
+                        <%--<div align="center" style="margin-left: -100px">--%>
+							<%--<span style="color: black;"> <b><%=request.getSession().getAttribute("userName")%></b>--%>
+							<%--</span>--%>
+                        <%--</div>--%>
 
-                        <div style="background-color: black">------------------------</div>
-                    </div>
-                    <div>
-                        <br> <a href="User_full_information.sf" style="color: red">个人信息</a>&nbsp;&nbsp;<a
-                            href="Update_login_password.sf" style="color: red">修改密码</a>&nbsp;&nbsp;<a
-                            href="User_full_information.sf" style="color: red">修改头像</a><br>
-                        <div style="background-color: black">------------------------</div>
-                        <br> <a href="exect.sf" style="margin-left: 23%">退出登录</a>
-                    </div>
+                        <%--<div style="background-color: black">------------------------</div>--%>
+                    <%--</div>--%>
+                    <%--<div>--%>
+                        <%--<br> <a href="User_full_information.sf" style="color: red">个人信息</a>&nbsp;&nbsp;<a--%>
+                            <%--href="Update_login_password.sf" style="color: red">修改密码</a>&nbsp;&nbsp;<a--%>
+                            <%--href="User_full_information.sf" style="color: red">修改头像</a><br>--%>
+                        <%--<div style="background-color: black">------------------------</div>--%>
+                        <%--<br> <a href="exect.sf" style="margin-left: 23%">退出登录</a>--%>
+                    <%--</div>--%>
 
 
-                </div>
+                <%--</div>--%>
 
             </div>
             <script type="text/javascript">

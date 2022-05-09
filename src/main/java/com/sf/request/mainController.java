@@ -194,15 +194,13 @@ public class MainController {
 
     @Auth(validate = false)
     @RequestMapping("login.sf")
-    public String login() {
+    public String login(HttpServletRequest request) {
         return "loginnew";
-
     }
 
     // 修改支付密码界面
     @RequestMapping("Tiaozhuanshouye.sf")
     public String Tiaozhuanshouye() {
-
         return "shouye";
 
     }
@@ -705,7 +703,6 @@ public class MainController {
     public String gridspay(HttpServletRequest request, String girdsID) {
         gridsEntity gridslist = userListServiceImpl.gridsIDlist(girdsID);
         request.setAttribute("gridslist", gridslist);
-
         return "gridspay";
 
     }
@@ -751,15 +748,15 @@ public class MainController {
     @RequestMapping(value = "delectgouwuche.sf", method = RequestMethod.GET, produces = "text/html;charset=UTF-8")
     public String delectgouwuche(HttpServletRequest request, HttpServletResponse response, String cartID)
             throws IOException {
-        // log.info(cartID);
+        log.info("cartID："+cartID);
         boolean bl = update_login_password_Service_Impl.delectcartID(cartID);
         String tishi = "";
         if (bl) {
-            // log.info("删除成功");
+            log.info("删除成功");
             tishi = "删除成功";
             request.setAttribute("tishi", tishi);
         } else {
-            // log.info("删除失败");
+            log.info("删除失败");
             tishi = "已经删除,查找不到此商品";
             request.setAttribute("tishi", tishi);
         }
@@ -767,15 +764,17 @@ public class MainController {
 
     }
 
+    /**
+     * 取数据库商品所有信息
+     * @param request
+     * @return
+     */
     @RequestMapping("Shopping.sf")
     public ModelAndView Shopping(HttpServletRequest request) {
         List<gridsEntity> gridslist = userListServiceImpl.gridslist();
-
         Map model = new HashMap();
         model.put("gridslist", gridslist);
-
         return new ModelAndView("Shoppingnew", model);
-
     }
 
     @RequestMapping("Order.sf")
@@ -783,10 +782,8 @@ public class MainController {
         String userName = (String) request.getSession().getAttribute("userName");
         // 根据名字查询出所有的订单
         List<ordertableEntity> ordertable = userListServiceImpl.ordertable(userName);
-
         Map model = new HashMap();
         model.put("ordertable", ordertable);
-
         return new ModelAndView("Order", model);
 
     }
@@ -827,6 +824,7 @@ public class MainController {
         return new ModelAndView("Returngoods", model);
     }
 
+    //删除订单
     @RequestMapping("DeletOrder")
     public ModelAndView DeletOrder(HttpServletRequest request) {
         List<ordertableEntity> ordertable = userListServiceImpl.orderStat("5");

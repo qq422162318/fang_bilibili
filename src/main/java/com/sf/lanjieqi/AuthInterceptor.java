@@ -3,8 +3,9 @@ package com.sf.lanjieqi;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
-
+@Slf4j
 public class AuthInterceptor extends HandlerInterceptorAdapter{
 
 	@Override
@@ -27,14 +28,16 @@ public class AuthInterceptor extends HandlerInterceptorAdapter{
 				//这个是不带参数的
 				addr = request.getRequestURI();
 			}
-//			String jiequ = addr.substring(9);
-			String[] jiequ = addr.split("/");
-			
+			//因为网址：http://localhost:8080/bilibili/**
+		    //开头这里设置将/bilibili截掉，就剩下原来请求的真是网址了
+			String jiequ = addr.substring(9);
+			//String[] jiequ = addr.split("/");
+			log.info("addr:"+addr);
 			// jiequ  这个地址是用户想访问的地址
-			request.getSession().setAttribute("jiequ", jiequ[jiequ.length-1]);
-			
+			//request.getSession().setAttribute("jiequ", jiequ[jiequ.length-1]);
+			request.getSession().setAttribute("jiequ", jiequ);
 			response.sendRedirect("login.sf");
-				return false;
+			return false;
 				
 	}
 

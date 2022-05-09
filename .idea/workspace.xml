@@ -8,39 +8,1187 @@
   <component name="ChangeListManager">
     <list default="true" id="813bba00-560d-4a3a-af82-ba6300fbb542" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/impl/UserListDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/impl/UserListDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/jingtai/JspToHtml.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/jingtai/JspToHtml.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/lanjieqi/AuthInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/lanjieqi/AuthInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/request/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/request/LoginRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/request/RegisterRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/request/RegisterRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Confirmorder.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Confirmorder.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Delivery_address.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Delivery_address.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/DisplayVideo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/DisplayVideo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Forum.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Forum.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/ForumReply.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/ForumReply.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Forumindex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Forumindex.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Video.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Video.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/gridspay.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/gridspay.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/loginnew.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/loginnew.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/xiaoheiwu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/xiaoheiwu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/zhuce.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/zhuce.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/forum.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/static/Forum/js/forum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/static/Homepage/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/static/adminjs/liebiao.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/static/adminjs/liebiao.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img3.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img4.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bilibili/static/gouwuche/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bilibili/static/gouwuche/js/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/impl/UserListDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sf/dao/impl/UserListDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/jingtai/JspToHtml.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sf/jingtai/JspToHtml.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/lanjieqi/AuthInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sf/lanjieqi/AuthInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/request/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sf/request/LoginRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/request/RegisterRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sf/request/RegisterRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/Shangchuan.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/chaxun/Callingmethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/chaxun/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/LoginDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/MessageDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/RegisterDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/Update_login_password_Dao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/UserListDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/impl/LoginDaoimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/impl/MessageImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/impl/RegisterImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/impl/Update_login_password_Impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/dao/impl/UserListDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/db/Data_jdbcTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/entity/ShoppingCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/entity/forumEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/entity/forumreplyEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/entity/gridsEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/entity/messageEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/entity/ordertableEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/entity/userEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/entity/videoEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/entity/videoTopEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/jingtai/JspToHtml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/lanjieqi/Auth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/lanjieqi/AuthInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/request/LoginRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/request/MessageRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/request/RegisterRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/Addservice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/MessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/RegisterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/Update_login_password_Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/UserListService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/impl/Addserviceimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/impl/LoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/impl/MessageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/impl/RegisterServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/impl/Update_login_password_Service_Impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/service/impl/UserListServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/servlet/ProDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/servlet/ProServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/servlet/UploadServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/servlet/one.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/GetDataTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/GetUUID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/GridsRowMapperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/Html_guolv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/RowMapperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/RowMapperVideoEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/ShoppingCartRowMapperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/VideoRowMapperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/forumEntityRowMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/forumreplyEntityRowMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/com/sf/tool/ordertableRowMapperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/commons-fileupload-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/commons-io-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/jave-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/path.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/classes/springcontext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/c3p0-0.9.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/commons-fileupload-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/commons-io-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/gson-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/jave-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/mchange-commons-java-0.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/mysql-connector-java-5.1.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/spring-aop-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/spring-beans-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/spring-context-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/spring-core-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/spring-expression-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/spring-jdbc-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/spring-tx-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/spring-web-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/lib/spring-webmvc-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/AdminBL.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Adminbackgroundshipment.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Bank_Card.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Completedorder.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Confirmorder.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/DeletOrder.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Delivery_address.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/DisplayVideo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Forum.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/ForumReply.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Forumindex.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Houtai.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Information.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Inquiryorder.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Order.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Returngoods.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Shipmentpending.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Shopping.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Shoppingnew.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Update_PayPassword.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Update_Phone.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Update_email.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Update_login_password.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/User_full_information.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/Video.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/details.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/gouwuche.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/gridspay.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/loginnew.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/videoFileTop.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/xiaoheiwu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/zhuce.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web-jsp/用户信息JSP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/index2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/src/main/java/commons-fileupload-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/src/main/java/commons-io-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/src/main/java/jave-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/src/main/java/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/css/admin_login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/css/mylessons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/fonts/icomoon.dev.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/fonts/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/fonts/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/fonts/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/fonts/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/images/gaoxiao.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/images/login/admin-login-btnbg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/images/onCorrect.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/images/onError.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/images/onFocus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/images/onShow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/images/tab-thbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/js/jquery-1.8.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/js/libs/modernizr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/modules/code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/modules/laydate/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/modules/laydate/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/modules/layer/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/modules/layer/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/modules/layer/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/modules/layer/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/modules/layer/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/modules/layer/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/css/sccl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/image/login-bg-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/19.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/21.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/22.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/23.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/24.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/25.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/26.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/27.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/28.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/29.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/30.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/31.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/33.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/34.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/35.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/36.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/37.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/38.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/39.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/40.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/41.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/42.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/43.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/44.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/45.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/46.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/47.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/48.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/49.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/50.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/51.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/52.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/53.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/54.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/55.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/56.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/57.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/58.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/59.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/60.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/61.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/62.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/63.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/64.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/65.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/66.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/67.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/68.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/69.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/70.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/images/face/9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/lib/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/layedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/laypage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/laytpl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/lay/modules/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Adminbackgroundshipment/layui/layui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/css/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/css/style_4_common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/css/style_4_common_1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/css/style_4_forum_forumdisplay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/css/style_4_forum_viewthread.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/css/style_4_widthauto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/css/style_4_widthauto_1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/access_disallow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/access_disallow_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/activitysmall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/activitysmall_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/ad.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/ad_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/app_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arr_w.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arr_w_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrow_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrow_down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrow_top.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrow_top_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrow_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrow_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrow_up_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrow_up_hover_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrwd.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arrwd_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arw.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arw_l.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arw_l_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/arw_r.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/atarget.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/attach_nopermission.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/attach_nopermission_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/attl_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/background_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bg_waterfall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bg_waterfall_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bigimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_2_ft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_2_ft_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_2_ft_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_2_ft_r_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_2_hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_2_hd_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_3_ft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_3_ft_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_3_ft_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_3_ft_r_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_3_hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_3_hd_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_4_ft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_4_ft_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_4_ft_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_4_ft_r_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_4_hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_4_hd_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_5_ft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_5_ft_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_5_ft_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_5_ft_r_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_5_hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_5_hd_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_6_ft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_6_ft_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_6_ft_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_6_ft_r_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_6_hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_6_hd_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_7_ft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_7_ft_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_7_ft_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_7_ft_r_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_7_hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/bs_7_hd_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/cancelbutton.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/cancelbutton_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/card_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/card_btn_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/check_error.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/check_error_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/check_right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/check_right_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/clck.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/clck_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/clock.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/clock_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/close-s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/close.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/close_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/cls.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/cls_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/cmmnt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/code_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/codebg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/connect_qq.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/connect_qq_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/dash.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/dash_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/data_valid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/data_valid_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/debate_bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/debate_chart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/debate_dr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/debate_vs.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/debatesmall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/doodle.small.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/doodle.small_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/dot.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/dot_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/edit.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/editor.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/editor_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/error.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/error_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/fach.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/fall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/fastreply.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/fav.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/fav_grey.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/fav_grey_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/feed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/feed_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/flw_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/flw_ico_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/folder_new.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/friend.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/friend_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/gb.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/gb_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/gentlemanbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/gentlemanbg_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/gst.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/gst_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/home.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/hot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/hot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/hotspot.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/ico_jdt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/ico_mulu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/ico_mulu_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/ico_notice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/ico_notice_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/icon_append.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/icon_preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/icon_preview_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/icon_quote_e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/icon_quote_s.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/imagelist_nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/imgzoom_tb.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/imgzoom_tb_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/increase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/info.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/info_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/ladybg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/ladybg_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/locked.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/magic_imgbg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/magic_imgbg_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mark_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/midavt_shadow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mobile-attach-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mobile-attach-2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mobile-type-ie6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mobile-type-ie6_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mobile-type.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mobile-type_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mu_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mu_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/mu_bg_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/new_pm.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/new_pm_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/newarow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/newarow_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/noicon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/noicon_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/nophototiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/nophototiny_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/nosexbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/nosexbg_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/notice.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/notice_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/nv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/nv_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/nv_a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/nv_a_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/op.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/op_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/oshr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/oshr_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/p_debate_chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/p_debate_chart_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/panel-toggle-drop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/panel-toggle-drop_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/panel-toggle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/panel-toggle_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/passlevel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/passlevel_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pdbt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pdbtm.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pg_arw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pg_arw_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pic-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pic-next_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pic-prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pic-prev_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pllb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pm-bg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pm-bg1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pm-bg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pm-bg2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pm_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pmto.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pmto_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pn_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pn_color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pn_color_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/poke.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pollsmall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/popupcredit_bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/popupcredit_bg_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/popuptext_bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/popuptext_bg_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/preview_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pt_item.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pt_item_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/pubsave.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/push.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/px_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/px_e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/px_e_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/qa.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/qa_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/qmenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/qmenu_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/qz.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/qz_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/re_unsolved.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/re_unsolved_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/rec_add.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/rec_subtract.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/recyclebin.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/recyclebin_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/repquote.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/repquote_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/rewardsmall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/right_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/rwd.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/scrolltop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/scrolltop_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/search.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/search_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/search_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/share_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/sidecontrol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/sigline.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/sortnum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/sortnum_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/starlevel.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/switch_style.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/switch_style_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/switch_width.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/switch_width_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/tag.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/task.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/task_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/thead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/thead_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/tip_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/tip_bottom_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/tip_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/tip_top_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/title_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/titlebg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/titlebg_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/titlebg_sd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/tradesmall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/tradesmall_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/user_add.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/user_add_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/user_online.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/user_online_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/v.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/v_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/viewpay.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/vline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/vline2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/vline2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/vline_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/vlineb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/images/vlineb_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/aq_auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/aq_auth_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/autoloadpage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/comm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/common_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/discuz_tips.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/discuz_tips_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/forum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/forum_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/forum_viewthread.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/home_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/logging.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/logging_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/md5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/md5_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/seditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/seditor_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/stat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/js/stat_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/011.small.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/35.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/agree.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/arw_r.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/avatar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/collapsed_no.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/collapsed_yes.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_343_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_38_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_42_usergroup_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_557_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_703_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_707_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_708_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_709_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_762_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_763_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_764_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_770_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_778_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/common_779_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/fav.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/fj_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/folder_lock.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/folder_new.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/hot_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/hot_3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/image_s.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/logo_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/pin_2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/pin_3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/pollsmall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/rewardsmall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/rt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/site_qq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/site_qq_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/star_level3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/thread-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/thread-prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Forum/picture/userinfo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/css/example.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/banner1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/bg_over.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/bilibili.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/compare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/fast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/gitHub.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/headImg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/banner1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/bg_over.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/compare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/fast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/gitHub.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/headImg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/images/menu_bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/menu_bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/images/topimg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/img/donghua.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/img/fanzhu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/img/kawayi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/img/kawayiphoto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/js/jquery-2.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/js/sHover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/js/sHover.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/mycssAndimg/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/mycssAndimg/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/css/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/css/fz-video.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/css/popuo-box.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/behance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ch1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ch1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ch2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ch3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ch4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/create.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/dev-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/dribbble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/eg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/eg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/eg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/eg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/fb1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/g2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/g3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/gm1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/gm2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/gm3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/gm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/h-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/h1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/h2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/h3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/h4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/i.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/lines.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/m1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/m2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/m3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/m4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/m5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/m6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ma1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ma2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ma3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ma4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ma5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/ma6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mt1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mt2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mt3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mt4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mt5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mt6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mv1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mv2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mv3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/mv4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/my1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/my2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/my3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/my4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/my5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/my6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/n9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/pinterest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/pr1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/pr2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/r1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/r2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/r3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/r4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/r5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/r6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/rss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/s1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/select-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/social.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/sp1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/sp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/sp3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/sp4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/sp5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/sp6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/t1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/t2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/t3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/themes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/tm1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/tm2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/tm3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/tm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/try-banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/try.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/tv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/u12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/view.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/we1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/we2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/we3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/we4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/images/whatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/video/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/videoPlay/css/fz-video.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/videoPlay/font/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/videoPlay/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/videoPlay/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/videoPlay/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/videoPlay/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Homepage/videoPlay/js/fz-video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/center.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/center0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/header01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/header_bei.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/left01_bei.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/left01_left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/left01_right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/left02_bei.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/left02_left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/left02_right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Houtai/images/li.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/css/etalage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/css/jstarbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/css/megamenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/css/slippry.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/easyResponsiveTabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/jquery.easy-ticker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/jquery.etalage.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/jstarbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/megamenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/menu_jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/move-top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/js/scripts-f0e4e0c2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/new/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/new/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/new/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/new/js/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Shoppingcss/new/js/shop.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/The Truth That You Leave.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/city/Popt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/city/city.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/city/cityJson.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/city/citySet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/css/center.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/css/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/css/ie7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/css/jiazaitoubu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/css/shangchuan.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/1xing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/2xing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/3xing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/4xing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/5xing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/66f625e1ecfd7ad8244efabaa744aa73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/all_list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/cross_fire.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/danmgydxm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/ddgl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/dengj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/fangdajing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/fourm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/jbjt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/jiantou.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/jif.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/jkkll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/kouw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/lu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/mkjlm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/myfridend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/shezhi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/shouj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/shouji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/suo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/wdssc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/weixin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/weizh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/wmdys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/youx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/yue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/zjsjdt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/images/zshy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/js/index2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/js/jquery-1.8.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/User_Data_Update/js/jquery.luara.0.0.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/Xinxi.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/adminjs/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/adminjs/adminjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/adminjs/chaxunjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/adminjs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/adminjs/liebiao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/adminjs/videojs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/app-qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/app-qrcode__box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/china_title_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/bangumi_img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/bangumi_img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/bangumi_img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/bangumi_img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/bangumi_img6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/bangumi_img7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/bangumi_img8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/banner-list__img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/banner-list__img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/banner-list__img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/fdb6ab8c0af50a508718f53c9bbce30161c73fe1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game-center__img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game-list__img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game-list__img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game-list__img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game-list__img4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game-list__img5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game-list__img6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game-list__img7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game_img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game_img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/game_img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/live-box__img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/live-box__img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/live-box__img4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/live-box__img6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/live_headImg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/main-rank__img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/main-rank__img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/main_pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/nav_img.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/promote_img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/promote_img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/promote_img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/promote_img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/promote_img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/sideSlider_img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider-user1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider-user2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider-user3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider-user4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/cont/slider_img4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/game-center__shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/game_center_title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/header_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/header_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/live_online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/page_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/page_icons2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/state_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/user_post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/user_post_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/weibo-qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/weixin-arcode.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/images/wx_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/bilibiliIndex/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/images/button-custom-qq-h.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/images/button-custom-qq.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/images/erweima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/images/hoverbtnbg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/images/hoverbtnbg1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/images/logo_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/images/tel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/images/wechat_code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/images/weixin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/images/zxkfqq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/js/jq22.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/js/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/cebianlan/js/jquery-1.4.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/dingdancss/css/wenjuan_ht.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/gouwuche/css/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/gouwuche/js/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/css/orderconfirm.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/css/tasp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/images/fod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/images/ht.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/images/me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/images/photos/img01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/images/photos/img02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/images/photos/img03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/images/photos/img04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/images/photos/img05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/images/photos/img06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/images/shop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/js/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/js/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/gridsPay/js/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/img/22niang.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/img/33niang.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/img/baibao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/img/gongzai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/img/heibao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/img/naozhong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/img/weiyi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/img/xiaodianshibaozheng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/img/xiezi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/grids/img/zaixiabanben.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/jingdutiao/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/jingdutiao/jquery-1.8.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/jingdutiao/jquery-1.8.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/arrow_29x30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/bz_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/ereima_202x202.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/erweima_180x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/erweima_46x46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/fbg_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/mogulogo_220x52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/saoyisao_190x37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/sprite_200x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/tubiao_52x53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/images/zhuce_400x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/loginnew/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/login/loginnew/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/css/jq22.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/images/body_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/images/box_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/images/box_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/images/buttom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/images/input.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/images/input_long.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/images/input_long_light.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/images/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/images/tri.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/js/jq22.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/register/js/jquery-1.4.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/15feccd684c9d8fa8e03eaa564b297c4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/399043289296160872.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/97f1c460b57f56976315ba93c471f221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/MyHand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/_MG_6931_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/gaoxiao.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/userHand_Top/upload/timg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videoTop.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/10206688-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/1176840-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/13143927-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/13817402-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/14779495-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/2931880-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/3617382hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/4624196-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/5076187-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/5082973-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/6130489-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/6760443-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/7015300-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/7190132-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/8980857-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/9325861-1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/Av6716706.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/bilansuo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/daojian.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/deguowuke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/dianying.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/duoyudejieshi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/ganghaoyujianni.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/gaobaiqiu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/henxiangjianni.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/longnvpu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/longyuhu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/meimeishenmedezuihaole.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/paojie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/weiheerzhan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/weilebianqiang.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/wuyu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/xiaoyuan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/yeliangshen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/youzaidawang.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/zhongerbing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/videolook/videolookimg/【完结纪念从零开始AMV】帅气又燃的扔出一只雷姆.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bilibili/static/静态前端界面js,jq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/chaxun/Callingmethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/chaxun/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/LoginDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/MessageDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/RegisterDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/Update_login_password_Dao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/UserListDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/impl/LoginDaoimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/impl/MessageImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/impl/RegisterImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/impl/Update_login_password_Impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/dao/impl/UserListDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/db/Data_jdbcTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/entity/ShoppingCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/entity/forumEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/entity/forumreplyEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/entity/gridsEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/entity/messageEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/entity/ordertableEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/entity/userEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/entity/videoEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/entity/videoTopEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/jingtai/JspToHtml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/lanjieqi/Auth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/lanjieqi/AuthInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/request/LoginRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/request/MessageRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/request/RegisterRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/Addservice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/MessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/RegisterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/Update_login_password_Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/UserListService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/impl/Addserviceimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/impl/LoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/impl/MessageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/impl/RegisterServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/impl/Update_login_password_Service_Impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/service/impl/UserListServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/servlet/ProDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/servlet/ProServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/servlet/UploadServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/servlet/one.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/GetDataTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/GetUUID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/GridsRowMapperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/Html_guolv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/RowMapperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/RowMapperVideoEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/ShoppingCartRowMapperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/VideoRowMapperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/forumEntityRowMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/forumreplyEntityRowMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sf/tool/ordertableRowMapperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/path.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springcontext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-jee/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-jee/web-resources/META-INF/maven/com.sf.bilibili/bilibili/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-jee/web-resources/META-INF/maven/com.sf.bilibili/bilibili/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sf/Test/MyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sf/Test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sf/Test/VideoTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sf/Test/chu.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +1212,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sf/request/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="71">
-              <caret line="112" column="34" lean-forward="true" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="34" />
+              <caret line="112" column="34" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#6586#6587#0" expanded="true" />
@@ -78,28 +1226,19 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sf/request/LoginRequest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="338">
-              <caret line="57" column="37" lean-forward="true" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sf/lanjieqi/AuthInterceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+              <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sf/lanjieqi/AuthInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+              <folding>
+                <element signature="e#672#758#1" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -158,6 +1297,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -283,7 +1423,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1652104453978" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1652105006509" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -399,7 +1539,7 @@
       <workItem from="1651807527168" duration="878000" />
       <workItem from="1651815395766" duration="252000" />
       <workItem from="1652004006229" duration="3074000" />
-      <workItem from="1652066893173" duration="10702000" />
+      <workItem from="1652066893173" duration="11179000" />
     </task>
     <task id="LOCAL-00001" summary="mymac">
       <created>1651815249871</created>
@@ -443,17 +1583,24 @@
       <option name="project" value="LOCAL" />
       <updated>1652103590338</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mymac">
+      <created>1652104464275</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652104464275</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52982000" />
+    <option name="totallyTimeSpent" value="53459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="708" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29402262" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29402262" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -463,7 +1610,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5487013" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5487013" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -833,7 +1980,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sf/request/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
-          <caret line="112" column="34" lean-forward="true" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="34" />
+          <caret line="112" column="34" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#6586#6587#0" expanded="true" />
@@ -845,24 +1992,27 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sf/request/LoginRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
-          <caret line="57" column="37" lean-forward="true" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sf/lanjieqi/AuthInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <first_editor relative-caret-position="57">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sf/lanjieqi/AuthInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="e#672#758#1" />
+          </folding>
         </state>
       </provider>
     </entry>

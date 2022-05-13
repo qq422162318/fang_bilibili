@@ -232,7 +232,7 @@
                         <li><a href="#"><i class="icon-tv"></i>芒果TV</a></li>
                     </ul>
 
-                    <a href="#" class="activity"><img src="images/cont/nav-square__img.jpg" alt="#"></a>
+                    <a href="#" class="activity"><img src="<%=request.getContextPath()%>/images/cont/nav-square__img.jpg" alt="#"></a>
                 </div>
             </li>
 
@@ -250,18 +250,25 @@
     <div class="page-width clearfix">
         <div class="slider fl">
             <div class="slider-img">
-                <a href="#" slider-title="pic1"><img
-                        src="<%=request.getContextPath()%>/static/bilibiliIndex/images/cont/slider_img1.png"
-                        alt="#"></a> <a href="#" slider-title="pic2"><img
-                    src="<%=request.getContextPath()%>/static/bilibiliIndex/images/cont/slider_img2.png"
-                    alt="#"></a> <a href="#" slider-title="pic3"><img
+                <a href="#" slider-title="虚渊玄新作">
+                    <img src="<%=request.getContextPath()%>/static/bilibiliIndex/images/cont/slider_img1.png"
+                        alt="#">
+                </a>
+                <a href="#" slider-title="2022年4月新番导视">
+                    <img src="<%=request.getContextPath()%>/static/bilibiliIndex/images/cont/slider_img2.png"
+                    alt="#">
+                </a>
+                <a href="#" slider-title="虚拟主播五一大联欢"><img
                     src="<%=request.getContextPath()%>/static/bilibiliIndex/images/cont/slider_img3.png"
-                    alt="#"></a> <a href="#" slider-title="pic4"><img
+                    alt="#">
+                </a>
+                <a href="#" slider-title="有奖看国创，瓜分60000元！"><img
                     src="<%=request.getContextPath()%>/static/bilibiliIndex/images/cont/slider_img4.png"
-                    alt="#"></a>
+                    alt="#">
+                </a>
             </div>
             <div class="slider-title">
-                <p>pic1</p>
+                <p>虚渊玄新作:BUBBLE</p>
             </div>
             <div class="slider-btn">
                 <span class="cur"></span> <span></span> <span></span> <span></span>

@@ -50,6 +50,7 @@ public class LoginRequest {
 
                 //说明这个地址是用户想访问的地址 但是没用登录
                 String ceshidizhi = (String) request.getSession().getAttribute("jiequ");
+                if (ceshidizhi.length() > 1) ceshidizhi = ceshidizhi.substring(1);
                 //重置为空
                 String jiequ = "";
                 request.getSession().setAttribute("jiequ", jiequ);

@@ -64,4 +64,16 @@ public class messageEntity {
 			this.messageHand = messageHand;
 		}
 
+	@Override
+	public String toString() {
+		return "messageEntity{" +
+				"messageID='" + messageID + '\'' +
+				", messagevideoID='" + messagevideoID + '\'' +
+				", messageuserID='" + messageuserID + '\'' +
+				", messageuserName='" + messageuserName + '\'' +
+				", message='" + message + '\'' +
+				", messageTime='" + messageTime + '\'' +
+				", messageHand='" + messageHand + '\'' +
+				'}';
+	}
 }

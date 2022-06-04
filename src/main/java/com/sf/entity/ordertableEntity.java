@@ -72,4 +72,17 @@ public class ordertableEntity {
 			this.orderAddr = orderAddr;
 		}
 
+	@Override
+	public String toString() {
+		return "ordertableEntity{" +
+				"orderID='" + orderID + '\'' +
+				", orderuserName='" + orderuserName + '\'' +
+				", orderIgridsName='" + orderIgridsName + '\'' +
+				", ordergridsImg='" + ordergridsImg + '\'' +
+				", orderzongRMB='" + orderzongRMB + '\'' +
+				", orderStat='" + orderStat + '\'' +
+				", orderTime='" + orderTime + '\'' +
+				", orderAddr='" + orderAddr + '\'' +
+				'}';
+	}
 }

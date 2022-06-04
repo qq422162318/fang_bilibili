@@ -36,7 +36,7 @@ public interface MessageService {
 	
 	/**
 	 * 直接保存回复的帖子内容
-	 * @param forument
+	 * @param forumreply
 	 * @return
 	 */
 	public boolean forumreply(forumreplyEntity forumreply);

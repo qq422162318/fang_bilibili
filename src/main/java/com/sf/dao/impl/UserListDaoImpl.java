@@ -33,11 +33,11 @@ public class UserListDaoImpl implements UserListDao {
     @Autowired
     Data_jdbcTemplate jdbcTemplate;
 
-    public userEntity userlist(String userName) {
+    public userEntity function_userlist_index(String username_string) {
         //根据名字查询出用户对象. - -
-        String sql = "select * from user where userName=?";
-        userEntity user = jdbcTemplate.getJdbcTemplate().queryForObject(sql, new Object[]{userName}, new RowMapperEntity());
-        return user;
+        String objectsql = "select * from user where userName=?";
+        userEntity user_listobject = jdbcTemplate.getJdbcTemplate().queryForObject(objectsql, new Object[]{username_string}, new RowMapperEntity());
+        return user_listobject;
     }
 
 

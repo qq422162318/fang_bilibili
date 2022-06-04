@@ -24,8 +24,7 @@ $(document)
             html += "<div class='col-sm-10 show-grid-left main-grids' style='margin-top: -50px'>";
             html += "<div class='recommended'>";
             html += "<div class='recommended-grids english-grid'>";
-            $
-                .post(
+            $.post(
                     "ajaxtijiao1.sf",
                     {
                         "State": State,

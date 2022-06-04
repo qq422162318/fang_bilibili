@@ -52,7 +52,8 @@ $(function () {
 
   function sideBar() {
     if ($('#banner').offset().top <= $(this).scrollTop()) {
-      $sideBar.css({top: 0});
+      $sideBar.css({top: 0});t remote show
+
     } else {
       $sideBar.css({top: 232});
     }

@@ -29,8 +29,7 @@ public class MessageImpl implements MessageDao {
 					message.getMessagevideoID(),message.getMessageuserID()
 					,message.getMessageuserName(),
 					message.getMessage(),message.getMessageTime(),message.getMessageHand()});
-		
-		
+
 		return num;
 	}
 

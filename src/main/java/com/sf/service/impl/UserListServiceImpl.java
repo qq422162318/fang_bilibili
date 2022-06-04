@@ -23,7 +23,7 @@ public class UserListServiceImpl implements UserListService {
 	UserListDaoImpl userListDaoImpl;
 	
 	public userEntity userlist(String userName) {
-		userEntity user=userListDaoImpl.userlist(userName);
+		userEntity user=userListDaoImpl.function_userlist_index(userName);
 		return user;
 	}
 

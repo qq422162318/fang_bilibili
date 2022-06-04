@@ -10,8 +10,8 @@ public interface Update_login_password_Service {
 	/**
 	 * 	根据用户名查询出用户邮箱 如果正确则再去修改邮箱
 	 * @param userName
-	 * @param passWord
-	 * @param newpassWord
+	 * @param emial
+	 * @param newemial
 	 * @return
 	 */
 	public boolean Update_login_Emial(String userName,String emial,String newemial);
@@ -21,8 +21,8 @@ public interface Update_login_password_Service {
 	/**
 	 * 	根据用户名查询出用户手机 如果正确则再去修改手机号码
 	 * @param userName
-	 * @param passWord
-	 * @param newpassWord
+	 * @param userPhone
+	 * @param newuserPhone
 	 * @return
 	 */
 	public boolean Update_login_Phone(String userName,String userPhone,String newuserPhone);
@@ -32,8 +32,8 @@ public interface Update_login_password_Service {
 	/**
 	 * 	根据用户名查询出用户支付密码  如果正确则再去修改支付密码
 	 * @param userName
-	 * @param passWord
-	 * @param newpassWord
+	 * @param paypassword
+	 * @param newpaypassword
 	 * @return
 	 */
 	public boolean Update_login_payPassword(String userName,String paypassword,String newpaypassword);
@@ -43,8 +43,8 @@ public interface Update_login_password_Service {
 	/**
 	 * 	根据用户名查询出用户头像  如果正确则再去修改头像地址
 	 * @param userName
-	 * @param passWord
-	 * @param newpassWord
+	 * @param userHand
+	 * @param newuserHand
 	 * @return
 	 */
 	public boolean Update_login_hand(String userName,String userHand,String newuserHand);
@@ -60,9 +60,10 @@ public interface Update_login_password_Service {
 	
 	/**
 	 * 	修改用户地址
-	 * @param userName
-	 * @param passWord
-	 * @param newpassWord
+	 * @param sessionName
+	 * @param dizhi
+	 * @param xingming
+	 * @param phone
 	 * @return
 	 */
 	public boolean Update_Addred(String sessionName,String dizhi,String xingming,String phone);

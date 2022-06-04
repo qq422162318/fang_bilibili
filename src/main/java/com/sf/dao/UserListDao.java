@@ -19,7 +19,7 @@ public interface UserListDao {
 	 *  根据用户的名字 查询出用户的所有信息
 	 * @return
 	 */
-	public userEntity userlist(String  userName);
+	public userEntity function_userlist_index(String  userName);
 	
 	/**
 	 * 根据ID查询出此条论坛的全部信息

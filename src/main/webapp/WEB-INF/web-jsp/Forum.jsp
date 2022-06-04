@@ -201,8 +201,8 @@
                             <tbody id="normalthread_555837">
                             <tr>
                                 <td class="icn"><a href="forumReply.sf?forumID=${list.forumID}" title="有新回复 - 新窗口打开"
-                                                   target="_blank"> <img
-                                        src="<%=request.getContextPath()%>/static/Forum/picture/folder_new.gif"/>
+                                                   target="_blank">
+                                    <img src="<%=request.getContextPath()%>/static/Forum/picture/folder_new.gif"/>
                                 </a></td>
                                 <th class="new"><a class="tdpre y"
                                                    href="javascript:void(0);"
@@ -368,8 +368,8 @@
 
 <script src="<%=request.getContextPath()%>/static/Forum/js/home.js" type="text/javascript"></script>
 <div id="scrolltop">
-		<span hidefocus="true"><a title="返回顶部"
-                                  onclick="window.scrollTo('0','0')" class="scrolltopa"><b>返回顶部</b></a></span>
+		<span hidefocus="true">
+            <a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa"><b>返回顶部</b></a></span>
     <span> </span>
 </div>
 
